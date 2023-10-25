@@ -24,7 +24,7 @@ int binary(int arr[],int size, int key){
 
 int main(){
 
-            int num;
+            int num;s
             cout<<" Enter the size : ";
             cin>>num;
 
