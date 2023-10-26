@@ -24,7 +24,7 @@ int binary(int arr[],int size, int key){
 
 int main(){
 
-            int num;s
+            int num;
             cout<<" Enter the size : ";
             cin>>num;
 
@@ -38,7 +38,7 @@ int main(){
             cout<<endl<<"Enter the value of the key : ";
             cin>>key;
 
-            cout<<"\n The index of the given key is : "<<bianry(arr,num,key);
+            cout<<"\n The index of the given key is : "<<binary(arr,num,key);
 
 
     return 0;
