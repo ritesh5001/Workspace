@@ -26,5 +26,7 @@ int main(){
 
     int arr[6] = {1,2,3,4,5,6,}
     int index = binary_search(arr,6,2);
+
+    cout<<endl<<index;
     return 0;
 }
