@@ -26,7 +26,7 @@ int main(){
 
             int num;
             cout<<" Enter the size : ";
-            cin>>num;
+            cin>>num; 
 
             int arr[num];
             cout<<endl<<"Enter the number's of the array : ";
@@ -37,7 +37,6 @@ int main(){
             int key;
             cout<<endl<<"Enter the value of the key : ";
             cin>>key;
-
             cout<<"\n The index of the given key is : "<<binary(arr,num,key);
 
 
