@@ -240,6 +240,7 @@
 //     cout<<"NULL"<<endl;
 // }
 
+
 // int main(){
 
 //     node* head=NULL;
