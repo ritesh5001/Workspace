@@ -1,1 +1,0 @@
-Write a program in C++ to display n terms of natural number and their sum.
